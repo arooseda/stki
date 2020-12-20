@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Sistem Temu Kembali Berita E-Sports</title>
+<title>Sistem Temu Kembali Tema E-Sports</title>
 <!--<link  href="../jw.png" rel="shortcut icon" type="image/png" />-->
 <style>
 h2 {
@@ -10,7 +10,7 @@ h2 {
 </style>
 </head>
 <body>
-<h2 align=center><br>Sistem Temu Kembali Informasi Berita E-Sports<br><br></h2>
+<h2 align=center><br>Sistem Temu Kembali Informasi <br> Dokumen Tema Berita E-Sports<br><br></h2>
 <hr>
 <div align=center>
 | <a href="koneksi.php">Koneksi</a> |
@@ -26,6 +26,15 @@ h2 {
 <a href="tf.php">Term Frequency</a> |
 <a href="idf.php">Invers Document Frequency</a> |
 <a href="tfidf.php">TF.IDF</a> |
+<a href="search.php">Tfidf1</a> |
+<a href="search1.php">Tfidf2</a> |
+<a href="search2.php">Tfidf3</a> |
+<a href="searchjaccard1.php">Jaccard1</a> |
+<a href="searchjaccard2.php">Jaccard2</a> |
+<a href="searchjaccard3.php">Jaccard3</a> |
+<a href="searchdice1.php">Dice1</a> |
+<a href="searchdice2.php">Dice2</a> |
+<a href="searchdice3.php">Dice3</a> |
 </div>
 <hr/>
 </body>
